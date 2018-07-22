@@ -59,3 +59,5 @@ Some of the topics covered in the additional material are:
 2. [Planning with Pixels in (Almost) Real Time](https://arxiv.org/pdf/1801.03354.pdf)
 3. [Blind Search for Atari-Like Online Planning Revisited](https://www.ijcai.org/Proceedings/16/Papers/460.pdf)
 4. [Google spreadsheet with all bencharks on Atari](https://docs.google.com/spreadsheets/d/1JcNw2L0YL_I2iGZPJ0bNKJshlTaqMuEl5CP2W5zie6M/edit?usp=sharing)
+
+5. [Code used to run the examples](https://github.com/Guillemdb/FractalAI/tree/learning). (Not merged to the FractalAI repo yet)
