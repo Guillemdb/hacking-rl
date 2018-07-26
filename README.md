@@ -11,7 +11,7 @@ This new generation of planning algorithms achieves a performance which is sever
 than any other existing alternative, while offering linear time complexity and good scalability.
 
 ## The talk
-Explaining all the intricacies of the new algorithms would take more than 45 minutes, so this talk will be a practical example
+This talk will be a practical example
 of how we can use new tools for hacking any reinforcement learning environment, and make it generate superhuman level games.
 
 Hacking RL, as any other hacking process will be divided in four phases:
