@@ -1,8 +1,14 @@
 # Hacking Reinforcement Learning
 
 [Repository](https://github.com/Guillemdb/hacking-rl)
-[Slides with notes](https://docs.google.com/presentation/d/1aquFoqMz8gYhua2zr-PCckL2-6-weQFfbZ4fRVywW2Y/edit?usp=sharing)
 
+
+[EuroPython Slides with notes](https://docs.google.com/presentation/d/1aquFoqMz8gYhua2zr-PCckL2-6-weQFfbZ4fRVywW2Y/edit?usp=sharing)
+
+[PyConEs slides](https://docs.google.com/presentation/d/1rYJPNGRunMP5gNzzIP7P0rSqYTZAbNClfdofDW8I9oQ/edit?usp=sharing)
+
+**The FractalAI repository is now private. If you want me to send you a copy please contact me 
+opening  an issue in this repository.**
 
 Creating huge datasets of top performing examples for Reinforcement Learning (RL) has always been tricky, but if we allow
 ourselves to cheat a bit it can be done very easily. During this talk, I will present a new family of algorithms that allow to efficiently generate very high quality samples for any known RL environment.
